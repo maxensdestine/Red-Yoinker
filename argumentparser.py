@@ -92,7 +92,7 @@ def parse_arguments() -> Tuple[Dict[str, Union[List[str], str]], Dict[str, any]]
 
     scrap_parser.add_argument("-b", "--before", type=date_format_validator, default=None, help="Before: The maximum (inclusive) creation date a post can have to be included in ISO 8601 format, i.e. yyyy-mm-dd [hh:mm:ss.mmm]. Hours, minutes and seconds are optional. Milliseconds will be ignored though they can be included.")
 
-    scrap_parser.add_argument("-a", "--after", type=date_format_validator, default=None, help="Before: The maximum (inclusive) creation date a post can have to be included in ISO 8601 format, i.e. yyyy-mm-dd [hh:mm:ss.mmm]. Hours, minutes and seconds are optional. Milliseconds can be included but they will be ignored.")
+    scrap_parser.add_argument("-a", "--after", type=date_format_validator, default=None, help="Before: The minimum (inclusive) creation date a post can have to be included in ISO 8601 format, i.e. yyyy-mm-dd [hh:mm:ss.mmm]. Hours, minutes and seconds are optional. Milliseconds can be included but they will be ignored.")
 
     scrap_parser.add_argument("-ti", "--title", action="store_true", help="Use this flag to display the posts titles")
 
