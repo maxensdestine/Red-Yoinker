@@ -1,5 +1,5 @@
 # Red-Yoinker
-If you are not a programmer, you may want to use my [java tool]() instead. It has a GUI meaning that it is a normal application like a Music Player or Microsoft Words with visuals instead of a command line application where you need to type your commands. It also does the exact same thing as this app, so you are not missing on anything.
+If you are not a programmer, you may want to use [this tool](https://redditdownloader.github.io/) instead (NOTE: that website is not made by me). It has a GUI meaning that it is a normal application like a Music Player or Microsoft Words with visuals instead of a command line application where you need to type your commands. It also does similar things as this app, so you are not missing on anything.
 
 Red-Yoinker is a CLI app to download images and videos from reddit.com. This app has 2 different subcommands: **scrap** and **history**. The scrap subcommand will allow you to analyze or download content from your favorite subreddits while the history subcommand will allow you to keep track of downloaded content and any media which could not be downloaded. It will also allow you to retry downloading them. The **usage** section will go in depth on what each subcommand and option does.
 
