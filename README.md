@@ -1,3 +1,16 @@
+# The End?
+As reference
+https://www.reddit.com/r/pushshift/comments/13mhuzq/api_has_been_taken_down/
+
+About 17h hours ago (it is 18h13 May 20 2023 as I am writing this message) a reddit post on the pushshift subreddit claimed that the API had been taken down. The API is indeed unavailable right now and I doubt it will ever comeback. If it does though, it will most likely be with much less "power" than it used to. 
+
+
+As many of you know, artificial intelligence has been making rounds lately. From chat bots like ChatGPT, to image generator like Hotpot, the internet's landscape is rapidly changing and with it, Reddit's API access conditions. For companies who rely on real human input to develop their artificial intelligence, social media like Reddit are crucial. 
+
+[Reddit said that 303.4 million posts and 2 billion comments were created from Jan. 1 2020 to Nov. 6 2020](https://reddit.com/r/blog/comments/k967mm/reddit_in_2020/). All those posts and comments are potential training data for articial intelligence which means that Reddit has interests in keeping their API closed and making entities (whether they be people or companies) pay to access it. I will not debate the morality or fairness of such thing, but it is clear that APIs like Pushshift will no longer be available as they were in the past. 
+
+Finally, it is also worth noting that [Twitter did something similar not long ago](https://techcrunch.com/2023/03/29/twitter-announces-new-api-with-only-free-basic-and-enterprise-levels/) and that other social media like small forums might follow the lead of these 2 internet behemoths.
+
 # Red-Yoinker
 If you are not a programmer, you may want to use [this tool](https://redditdownloader.github.io/) instead (NOTE: that website is not made by me). It has a GUI meaning that it is a normal application like a Music Player or Microsoft Words with visuals instead of a command line application where you need to type your commands. It also does similar things as this app, so you are not missing on anything.
 
